@@ -1,0 +1,40 @@
+azure
+python
+sql
+fabric
+power bi
+koneoppiminen
+ai
+tekoäly
+machine learning
+analytiikka
+analytics
+synapse
+databricks
+aws
+amazon web services
+google cloud
+gcp
+snowflake
+bigquery
+looker
+spark
+etl
+elt
+pipeline
+data mesh
+data vault
+api
+kafka
+tableau
+oracle
+tietomallinnus
+datan mallinnus
+data modeling
+data warehousing
+tietovarastointi
+tietovarasto
+dataintegraatio
+kql
+data lake
+dataputki
